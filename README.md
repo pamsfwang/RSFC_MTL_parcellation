@@ -19,6 +19,7 @@ In this folder, you can find three masks of bilateral MTL cortical regions (nift
 * mniPHGgroup1_PHC.nii: the first cluster identified by the RSFC parcellation method, which corresponded to the PHC
 * mniPHGgroup2_postPRC.nii: the second cluster identified by the RSFC parcellation method, which corresponded to a posterior portion of the PRC
 * mniPHGgroup3_antPRC.nii: the third cluster identified by the RSFC parcellation method, which corresponded to an anterior region of the PRC
+* MNI152_T1_2mm_brain.nii: this is the MNI template brain in the same space and resoluation as the masks
 
 Combining anterior and posterior PRC masks will give you a mask that covers the whole PRC region.
 
