@@ -1,6 +1,8 @@
 # RSFC_MTL_parcellation
-Functional connectivity based parcellation of the human medial temporal lobe  
+[Functional connectivity based parcellation of the human medial temporal lobe](https://www.sciencedirect.com/science/article/pii/S1074742716000174?via%3Dihub)
+
 Wang et al., 2016
+
 
 Regional differences in large-scale connectivity have been proposed to underlie functional specialization along the anterior–posterior axis of the medial temporal lobe (MTL), including the hippocampus (HC) and the parahippocampal gyrus (PHG). However, it is unknown whether functional connectivity (FC) can be used reliably to parcellate the human MTL. The current study aimed to differentiate subregions of the HC and the PHG based on patterns of whole-brain intrinsic FC. 
 
